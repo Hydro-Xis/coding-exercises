@@ -16,11 +16,11 @@ Below is the list of tentative exercises:
 - (TBD) Exercise 10: Fourier neural operator
 - (TBD) Exercise 11: Differentiable programming for hybrid modeling
 
-# (TODO) Prerequisite
-As a Python programmer or programmer in general, you are expected to have basic knowledge of the following tools
-- Unix shell: The default shell scripts and also a powerful tool that  allows users to perform complex and powerful tasks with just a few keystrokes or lines of code. Please refer to [this short tutorial](https://swcarpentry.github.io/shell-novice/index.html) for its basic usage.
-- Git: The version control tool. Please refer to [this short tutorial](https://swcarpentry.github.io/git-novice/) for its basic usage.
-- Anaconda: A free and open-source Python distribution that simplifies package management and deployment through its package manager Conda. Please refer to [this post](https://www.anaconda.com/docs/getting-started/getting-started) for the installation of conda. We use the [conda virtual environment](https://docs.conda.io/docs/user-guide/tasks/manage-environments.html) for this repo.
+# Prerequisite
+As a Python programmer or a programmer in general, you are expected to have basic knowledge of the following tools
+- **Unix shell**: The default shell scripts and also a powerful tool that  allows users to perform complex and powerful tasks with just a few keystrokes or lines of code. Please refer to [this short tutorial](https://swcarpentry.github.io/shell-novice/index.html) for its basic usage.
+- **Git**: The version control tool. Please refer to [this short tutorial](https://swcarpentry.github.io/git-novice/) for its basic usage.
+- **Anaconda**: A free and open-source Python distribution that simplifies package management and deployment through its package manager Conda. Please refer to [this post](https://www.anaconda.com/docs/getting-started/getting-started) for the installation of conda. We use the [conda virtual environment](https://docs.conda.io/docs/user-guide/tasks/manage-environments.html) for this repo.
 
 # How-to-guide
 Please perform the following steps in your terminal.
