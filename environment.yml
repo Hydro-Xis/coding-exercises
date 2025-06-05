@@ -1,0 +1,16 @@
+name: exercises
+channels:
+  - conda-forge
+dependencies:
+  - python==3.10
+  - jupyter
+  - jupyterlab
+  - numpy
+  - pandas
+  - geopandas
+  - matplotlib
+  - h5py
+  - pip
+  - seaborn
+  - scikit-learn
+  - statsmodels
