@@ -3,7 +3,7 @@
 This live repo provides a list of Python coding exercises for new onboarders in Hydro-Xis group, including the following topics: information theory, causal analysis, deep learning, and differentiable modeling.
 
 # Exercises
-Below is the list of tentative exercises:
+Below is a list of tentative exercises:
 - (TBD) Exercise 1: Entropy and mutual information
 - (TBD) Exercise 2: Conditional mutual information and transfer entropy
 - (TBD) Exercise 3: Multivariate interaction and partial information decomposition
@@ -13,8 +13,9 @@ Below is the list of tentative exercises:
 - (TBD) Exercise 7: Artificial neural network
 - (TBD) Exercise 8: Recurrent neural network
 - (TBD) Exercise 9: Convolutional neural network
-- (TBD) Exercise 10: Fourier neural operator
-- (TBD) Exercise 11: Differentiable programming for hybrid modeling
+- (TBD) Exercise 10: Graph neural network
+- (TBD) Exercise 11: Fourier neural operator
+- (TBD) Exercise 12: Differentiable programming for hybrid modeling
 
 # Prerequisite
 As a Python programmer or a programmer in general, you are expected to have basic knowledge of the following tools
