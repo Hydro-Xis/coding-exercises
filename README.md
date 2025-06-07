@@ -4,7 +4,7 @@ This live repo provides a list of Python coding exercises for new onboarders in 
 
 # Exercises
 Below is a list of tentative exercises:
-- (TBD) Exercise 1: Entropy and mutual information
+- Exercise 1: Entropy and mutual information
 - (TBD) Exercise 2: Conditional mutual information and transfer entropy
 - (TBD) Exercise 3: Multivariate interaction and partial information decomposition
 - (TBD) Exercise 4: Statistical significance test
@@ -21,10 +21,11 @@ Below is a list of tentative exercises:
 As a Python programmer or a programmer in general, you are expected to have basic knowledge of the following tools
 - **Unix shell**: The default shell scripts and also a powerful tool that  allows users to perform complex and powerful tasks with just a few keystrokes or lines of code. Please refer to [this short tutorial](https://swcarpentry.github.io/shell-novice/index.html) for its basic usage.
 - **Git**: The version control tool. Please refer to [this short tutorial](https://swcarpentry.github.io/git-novice/) for its basic usage.
-- **Anaconda**: A free and open-source Python distribution that simplifies package management and deployment through its package manager Conda. Please refer to [this post](https://www.anaconda.com/docs/getting-started/getting-started) for the installation of conda. We use the [conda virtual environment](https://docs.conda.io/docs/user-guide/tasks/manage-environments.html) for this repo.
+- **Anaconda**: A free and open-source Python distribution that simplifies package management and deployment through its package manager Conda. Please refer to [this post](https://www.anaconda.com/docs/getting-started/getting-started) for the installation of conda. I use the [conda virtual environment](https://docs.conda.io/docs/user-guide/tasks/manage-environments.html) for this repo.
+- **Jupyter notebook**: A ''web-based interactive development environment for notebooks, code, and data.''. A super helpful tool that I oftentimes use for documentation, postprocessing, visualization, and code testing. See a brief introduction [here](https://docs.jupyter.org/en/latest/).
 
 # How-to-guide
-Please perform the following steps in your terminal.
+Please perform the following steps in your terminal to initiate the programming environment before diving into the exercises!
  
 1. Download the git repo
 ```sh
@@ -46,7 +47,7 @@ conda activate exercises
 jupyter lab
 ```
 
-5. A Jupyter Lab webpage should pop up and show the contents of the repo. Now you can play with the notebooks in the `exercises` folder!
+5. A Jupyter Lab webpage should pop up and show the contents of the repo. Now have fun with playing with the notebooks in the `exercises` folder!
 
 # Author
 Peishi Jiang (peishi.jiang@ua.edu)
